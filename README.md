@@ -8,7 +8,7 @@ pandas: Used for data manipulation and analysis, handling the DataFrames.
 yfinance: A library for downloading historical market data from Yahoo Finance.
 Matplotlib (via pandas.plot): Used for generating the plots and visualizations.
 
-# mport Libraries
+# import Libraries
 Explain the purpose of each library imported at the beginning of the script.
                 
                 import datetime as dt # For handling dates and time
